@@ -76,35 +76,67 @@ I enjoy working with Python, data analysis, visualization, and machine learning 
 
 ## 📂 Featured Projects
 
-### 1. 🎵 SONORA AI – Music Recommendation System
-A project to showcase my interest in recommendation systems and intelligent data-driven applications.
+## 🚀 My Featured Projects
 
-**Focus Areas:** Recommendation Systems | Python | Data Science
+<p align="center">
+  Exploring Data Science, Machine Learning, and Data Analytics through practical projects.
+</p>
 
-🔗 [View Project](https://github.com/Kaustubh0311/SONORA-AI)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 2. 🔍 CrimeVista – Crime Analytics System
-An analytical project focused on crime-related information and presenting meaningful insights through a structured system.
+### 🔍 CrimeVista
+**Crime Analytics System**
 
-**Focus Areas:** Data Analytics | Crime Analysis | Data Visualization
+A project focused on organizing, analyzing, and presenting crime-related information through an interactive system.
 
-🔗 [View Project](https://github.com/Kaustubh0311/CrimeVista)
+**Key Technologies:**
+- Python
+- FastAPI
+- React
+- TypeScript
 
-### 3. 💍 Wedding Cost Analysis Dashboard
-An interactive dashboard designed to analyze wedding expenses and explore cost patterns using an Indian wedding dataset.
+[🔗 View Repository](https://github.com/Kaustubh0311/CrimeVista)
 
-**Technologies:** Python | Pandas | NumPy | Seaborn | Plotly | Streamlit
+</td>
+</tr>
 
-🔗 [View Project](https://github.com/Kaustubh0311/Wedding-Cost-Analysis)
+<tr>
+<td width="50%" valign="top">
 
-### 4. 📈 Infosys Stock Market Analysis
-A financial data analysis project using historical Infosys stock market information to explore price movements and trends.
+### 💍 Wedding Cost Analysis
+**Interactive Data Analytics Dashboard**
 
-**Technologies:** Python | yfinance | Pandas | Data Analysis
+An interactive dashboard exploring Indian wedding expenses, cost distributions, and spending patterns.
 
-🔗 [View Project](https://github.com/Kaustubh0311/Infosys-Stock-Analysis)
+**Key Technologies:**
+- Python
+- Pandas & NumPy
+- Seaborn
+- Plotly & Streamlit
 
----
+[🔗 View Repository](https://github.com/Kaustubh0311/Wedding-Cost-Analysis)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Infosys Stock Analysis
+**Financial Data Analytics**
+
+A Python-based project exploring historical Infosys stock market data and price trends.
+
+**Key Technologies:**
+- Python
+- yfinance
+- Pandas
+- Data Visualization
+
+[🔗 View Repository](https://github.com/Kaustubh0311/Infosys-Stock-Analysis)
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Statistics
 
