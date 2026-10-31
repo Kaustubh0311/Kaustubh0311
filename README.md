@@ -1,20 +1,3 @@
-<!-- PROFILE HEADER -->
-
-<h1 align="center">Hi, I'm Kaustubh Saurkar 👋</h1>
-
-<h3 align="center">
-  Aspiring Data Scientist | Data Analyst
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+About+Data+Science;Exploring+Machine+Learning;Building+Data+Analytics+Projects;Turning+Data+Into+Insights" />
-</p>
-
-<p align="center">
-  <b>📊 Analyze | 🤖 Learn | 💡 Innovate | 🚀 Build</b>
-</p>
-
-<hr/>
 # 👋 Hi, I'm Kaustubh Saurkar
 
 ### Aspiring Data Scientist | Data Analyst | Python Enthusiast
