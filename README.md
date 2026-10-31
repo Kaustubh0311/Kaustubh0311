@@ -141,34 +141,27 @@ A Python-based project exploring historical Infosys stock market data and price 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh0311&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0311&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh0311&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh0311&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaustubh0311&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Kaustubh0311&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
-
----
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustubh0311&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustubh0311&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
----
+## 💻 My GitHub Profile
 
-## 🎯 Current Learning Goals
-
-- Strengthening Python programming.
-- Improving SQL query writing and database knowledge.
-- Learning advanced Exploratory Data Analysis.
-- Building interactive dashboards.
-- Exploring Machine Learning algorithms.
-- Developing real-world Data Science projects.
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaustubh0311&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ## 🤝 Let's Connect
 
