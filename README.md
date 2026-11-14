@@ -96,6 +96,11 @@ I enjoy working with Python, data analysis, visualization, and machine learning 
 
 🔗 [View Project on GitHub](https://github.com/Kaustubh0311/Cars_Data_Analysis)
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 
 ### 🔍 CrimeVista
