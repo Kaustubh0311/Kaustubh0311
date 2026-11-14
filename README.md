@@ -29,11 +29,13 @@ I enjoy working with Python, data analysis, visualization, and machine learning 
 ## 🛠️ Technical Skills & Technologies
 
 ### 👨‍💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ### 📊 Data Analysis & Manipulation
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -41,6 +43,7 @@ I enjoy working with Python, data analysis, visualization, and machine learning 
 </p>
 
 ### 📈 Data Visualization & Business Intelligence
+
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -66,17 +69,18 @@ I enjoy working with Python, data analysis, visualization, and machine learning 
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
 
-
 ### ⚙️ Development Tools
+
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## 📂 Featured Projects
+---
 
-## 🚀 My Featured Projects
+## 📂 Featured Projects
 
 <p align="center">
   Exploring Data Science, Machine Learning, and Data Analytics through practical projects.
@@ -86,9 +90,25 @@ I enjoy working with Python, data analysis, visualization, and machine learning 
 <tr>
 <td width="50%" valign="top">
 
+### 🚗 Cars Data Analysis
 
+**Power BI Business Intelligence Dashboard**
+
+An automobile data analysis project exploring vehicle pricing, manufacturers, fuel efficiency, horsepower, and technical specifications through an interactive three-page Power BI dashboard.
+
+**Key Technologies:**
+- Microsoft Power BI
+- Data Visualization
+- Business Intelligence
+- CSV Dataset
+
+[🔗 View Repository](https://github.com/Kaustubh0311/Cars_Data_Analysis)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔍 CrimeVista
+
 **Crime Analytics System**
 
 A project focused on organizing, analyzing, and presenting crime-related information through an interactive system.
@@ -108,6 +128,7 @@ A project focused on organizing, analyzing, and presenting crime-related informa
 <td width="50%" valign="top">
 
 ### 💍 Wedding Cost Analysis
+
 **Interactive Data Analytics Dashboard**
 
 An interactive dashboard exploring Indian wedding expenses, cost distributions, and spending patterns.
@@ -124,6 +145,7 @@ An interactive dashboard exploring Indian wedding expenses, cost distributions, 
 <td width="50%" valign="top">
 
 ### 📈 Infosys Stock Analysis
+
 **Financial Data Analytics**
 
 A Python-based project exploring historical Infosys stock market data and price trends.
@@ -140,16 +162,7 @@ A Python-based project exploring historical Infosys stock market data and price 
 </tr>
 </table>
 
-
-### 🚗 Cars Data Analysis & Business Intelligence Dashboard
-
-- **Tool:** Microsoft Power BI
-- **Focus:** Automobile Data Analysis and Business Intelligence
-- **Features:** Vehicle pricing, manufacturer comparisons, fuel efficiency, horsepower, and technical specifications.
-- **Dashboard:** 3 interactive analytical pages.
-
-🔗 [View Project on GitHub](https://github.com/Kaustubh0311/Cars_Data_Analysis)
-
+---
 
 ## 📊 GitHub Statistics
 
@@ -176,12 +189,14 @@ A Python-based project exploring historical Infosys stock market data and price 
   <img src="https://komarev.com/ghpvc/?username=Kaustubh0311&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with fellow learners, data enthusiasts, and professionals.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/kaustubh-saurkar-383b03304">
+  <a href="https://www.linkedin.com/in/kaustubh-saurkar-383b03304">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:shivamsaurkar03@gmail.com">
