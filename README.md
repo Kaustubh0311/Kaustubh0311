@@ -87,21 +87,6 @@ I enjoy working with Python, data analysis, visualization, and machine learning 
 <td width="50%" valign="top">
 
 
-### 🚗 Cars Data Analysis & Business Intelligence Dashboard
-
-- **Tool:** Microsoft Power BI
-- **Focus:** Automobile Data Analysis and Business Intelligence
-- **Features:** Vehicle pricing, manufacturer comparisons, fuel efficiency, horsepower, and technical specifications.
-- **Dashboard:** 3 interactive analytical pages.
-
-🔗 [View Project on GitHub](https://github.com/Kaustubh0311/Cars_Data_Analysis)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 
 ### 🔍 CrimeVista
 **Crime Analytics System**
@@ -154,6 +139,17 @@ A Python-based project exploring historical Infosys stock market data and price 
 </td>
 </tr>
 </table>
+
+
+### 🚗 Cars Data Analysis & Business Intelligence Dashboard
+
+- **Tool:** Microsoft Power BI
+- **Focus:** Automobile Data Analysis and Business Intelligence
+- **Features:** Vehicle pricing, manufacturer comparisons, fuel efficiency, horsepower, and technical specifications.
+- **Dashboard:** 3 interactive analytical pages.
+
+🔗 [View Project on GitHub](https://github.com/Kaustubh0311/Cars_Data_Analysis)
+
 
 ## 📊 GitHub Statistics
 
